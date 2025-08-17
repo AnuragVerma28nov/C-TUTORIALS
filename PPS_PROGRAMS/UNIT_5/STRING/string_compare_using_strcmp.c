@@ -26,4 +26,3 @@ int main()
         printf("Second string is lexicographically smaller.\n");
     }
     return 0;
-}
