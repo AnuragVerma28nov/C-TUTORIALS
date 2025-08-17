@@ -11,4 +11,3 @@ int main()
     str[strlen(str) - 1] = '\0'; // Remove newline character
     printf("Length of string: %lu\n", strlen(str));
     return 0;
-}
