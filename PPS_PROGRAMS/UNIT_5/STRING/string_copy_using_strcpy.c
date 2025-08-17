@@ -12,4 +12,3 @@ int main()
     strcpy(dest, src);
     printf("Destination string: %s\n", dest);
     return 0;
-}
